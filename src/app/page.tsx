@@ -20,7 +20,7 @@ const HomePage: NextPage = () => {
         />
         <ul className={styles.menu}>
           <li className={styles.li}><a href="/policies/terms-of-use.html">서비스 이용약관</a></li>
-          <li className={styles.li}><a href="/policies/privacy-policy.html">개인정보 취급방침</a></li>
+          <li className={styles.li}><a href="/policies/privacy-policy.html">개인정보 처리방침</a></li>
         </ul>
       </header>
       <div className={styles.content}>
